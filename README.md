@@ -35,7 +35,9 @@ Chatbot AI thông minh chuyên tư vấn về luật giao thông Việt Nam, s�
 ### 1. Clone repository
 ```bash
 git clone <your-repo>
-cd traffic-law-chatbot
+pip install requirement.txt
+cd src/traffic-law-chatbot
+streamlit run traffic-law-chatbot.py
 ```
 
 ###
